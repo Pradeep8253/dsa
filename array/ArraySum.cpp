@@ -19,7 +19,7 @@ int main()
     cout << "Enter the size of the array" << endl;
 
     int size;
-    cin >> size;
+    cin >> size;    
 
     cout << "Enter the value of the Element  of the  array  " << endl;
 
