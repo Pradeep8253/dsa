@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 void SwapAlternate(int arr[], int n)
@@ -47,8 +46,8 @@ int main()
 }
 
 // OUTPUT
-// Enter the size of the array  
+// Enter the size of the array
 // 5
-// Enter the values of the array 
+// Enter the values of the array
 // 5 2 9 4 7
-// 2 5 4 9 7 
+// 2 5 4 9 7
